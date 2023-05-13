@@ -7,57 +7,70 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "[JOEY]. (CABRERA ELIAS) | Software Engineer",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://nkingchaos2284.github.io/the-port-of-the-folio4/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Jose Mauricio Cabrera Elias",
+  logo_name: "J.Cabeli",
+  nickname: "[JOEY]. (CABRERA ELIAS) | Software Engineer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hello, my name is Jose Mauricio Cabrera Elias, but almost everyone calls
+    me Joey. Welcome to my software engineering portfolio.Here you'll get
+    to experience some of the apps I have developed.I see things in a
+    different way, and I create as such.I think in logic, which makes
+    coding come easy to me, and I flow with the code.I also follow to stoic
+    way of living, all is Logos.Let me introduce my self.I served in the
+    military for twelve years, two branches, first the US Navy and then the
+    US Army.Yes, I am a war veteran.I have always loved technology, I like
+    to know how things function deep inside.I used to build computers in
+    high school(the late 90's) also install software, and troubleshoot on family and friends computers.I've was a Gas Turbine electrician
+    technician, and in the civilian industry I worked in the process
+    engineering industry, that's where I got deep into programming, I
+    uploaded and updated software in a field environment. Wrote logic and
+    edited for PLC's(Programable Logic controllers) and also a bit of
+    robotics. Now, I have found something I'm good at and that's always
+    evolving.I love to create.Hopefully you enjoy my work.Thanks for
+    visiting!Thank you 💜";  
+
+    
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+  portfolio_repository: "https://github.com/nKingchaos2284/the-port-of-the-folio4",
+  githubProfile: "https://github.com/nKingchaos2284",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // github: "https://github.com/nKingchaos2284",
+  // linkedin: "https://www.linkedin.com/in/jose-cabrera-elias-65b059240",
+  // gmail: "jmcabrerae@gmail.com",
+  // gitlab: "https://gitlab.com/",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // instagram: "https://www.instagram.com/kingofchaoscoffeeco"
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/nKingchaos2284",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/jose-cabrera-elias-65b059240",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
+  
   {
     name: "Gmail",
     link: "mailto:ashutoshhathidara98@gmail.com",
