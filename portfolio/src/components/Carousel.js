@@ -2,7 +2,6 @@ import React from 'react';
 import Slider from 'react-slick';
 
 
-
 const Carousel = () => {
   const settings = {
     dots: true,
@@ -20,10 +19,10 @@ const Carousel = () => {
       <h2>Carousel</h2>
       <Slider {...settings}>
         <div>
-          <img src= "/img/portfolio/chaos/king1.png" alt="king1" />
+          <img src= "./img/portfolio/chaos/king1.png" alt="king1" />
         </div>
         <div>
-          <img src="/img/portfolio/chaos/king1.png" alt="Image 2" />
+          <img src="./img/portfolio/chaos/king1.png" alt="Image 2" />
         </div>
         <div>
           <img src="image3.jpg" alt="Image 3" />

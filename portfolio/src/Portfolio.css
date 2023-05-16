@@ -1,24 +1,24 @@
 /* Body styles */
 body {
-  background-image: url("img/321.jpg");
+  background-image: url("img/324.jpg");
   background-position: 0%;
   background-size: cover;
   align-content: center;
   color: #fff;
   font-family: 'Space Grotesk', sans-serif;
 
- 
 }
 
 /* Header styles */
 h1 {
   color: #fff;
   font-family: 'Space Grotesk', sans-serif;
+  text-shadow: 12px;
 }
 
 /* Portfolio styles */
 .portfolio {
-background-color: crimson;
+/* background-color: rgb(220, 150, 20); */
 border-radius: 10px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
   padding: 18px;

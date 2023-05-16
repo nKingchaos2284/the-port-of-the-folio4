@@ -1,11 +1,14 @@
 import React from 'react';
 import './Portfolio.css';
 
+
+
+
 function Portfolio() {
   return (
     <div className="portfolio">
       <h1>J M Cabrera Elias Portfolio</h1>
-      <p>👋 Hello, my name is Jose Mauricio Cabrera Elias, but almost everyone calls
+      <p align="center" >👋 Hello, my name is Jose Mauricio Cabrera Elias, but almost everyone calls
         me 'Joey.' Welcome to my software engineering portfolio. Here you'll get
         to experience some of the apps I have developed. I see things in a
         different way, and I create as such. I think in logic, which makes
@@ -26,7 +29,8 @@ function Portfolio() {
 </div>
 
 
+  ); 
+  }
 
-  ); }
 export default Portfolio;
 
