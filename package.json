@@ -1,11 +1,11 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
+  "version": "3.0.1",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^8.0.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -142,5 +142,23 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nKingchaos2284/the-port-of-the-folio4.git"
+  },
+  "keywords": [
+    "gif",
+    "search",
+    "engine"
+  ],
+  "author": "JM Cabrera Elias,",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nKingchaos2284/the-port-of-the-folio4/issues"
+  },
+  "homepage": "https://github.com/nKingchaos2284/the-port-of-the-folio4#readme",
+  "devDependencies": {}
 }
